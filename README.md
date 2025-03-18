@@ -6,4 +6,6 @@ rm -rf *
 cmake ..
 make
 
+可执行文件生成于bin目录下
+
 需要nginx的TCP负载均衡
